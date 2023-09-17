@@ -26,7 +26,7 @@ Facial Recognition Software in Python
 
 ## Potential upcomming features
 
- - GUI Version (tkinter)
+ - [ ] Add GUI Based version (tk)
 
 ## Preview of Code
 
