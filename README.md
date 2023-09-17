@@ -15,6 +15,8 @@ Facial Recognition Software in Python
 # Installation And Usage
 
  - To use this software you will need Pip and Python 🐍 Installed on your PC
+
+ - Clone the repository (git clone https://github.com/DanielJones02/Face-RecognitionPY) or download the latest release
    
  - Then all you have to do is execute run.bat and the requirements will automaticaly be installed
    
