@@ -12,6 +12,17 @@ Facial Recognition Software in Python
 
 - ⚡ Fun fact **I love python more than C++ (i hate pointers)**
 
+# Installation And Usage
+
+ - To use this software you will need Pip and Python Installed on your PC
+   
+ - Then all you have to do is execute run.bat and the requirements will automaticaly be installed
+   
+ - From there select Webcam or image
+   
+ - Have fun!
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
