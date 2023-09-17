@@ -24,6 +24,10 @@ Facial Recognition Software in Python
    
  - Have fun!
 
+## Potential upcomming features
+
+ - GUI Version (tkinter)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
