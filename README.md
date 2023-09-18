@@ -1,16 +1,10 @@
 # Face-RecognitionPY
 Facial Recognition Software in Python
-
 <h1 align="center">Hi 👋, I'm Daniel Jones</h1>
-<h3 align="center">I'm a passionate python and C++ developer</h3>
-
-- 🔭 I’m currently working on [C++ AI Chatbot](https://github.com/DanielJones02/cpp-ai-chatbot) and [This Project](https://github.com/DanielJones02/Password-Generator)
-
-- 🌱 I’m currently learning **C++ Frameworks/Libs**
+<h3 align="center">I'm a passionate Python and C++ developer</h3>
+<h3 align="center">Welcome To my github project!👋</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/DanielJones02](https://github.com/DanielJones02)
-
-- ⚡ Fun fact **I love python more than C++ (i hate pointers)**
 
 # Installation And Usage
 
@@ -67,7 +61,6 @@ Facial Recognition Software in Python
         video_capture.release()
         cv2.destroyAllWindows()
 ```
-
 
 
 <h3 align="left">Connect with me:</h3>
