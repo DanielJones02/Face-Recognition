@@ -23,6 +23,7 @@ Facial Recognition Software in Python
  - [ ] Add GUI Based version (tk)
 
 
+
 > [!WARNING]
 > This software has not been tested on linux, I have only tested it on windows.
 
