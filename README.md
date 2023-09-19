@@ -23,10 +23,6 @@ Facial Recognition Software in Python
  - [ ] Add GUI Based version (tk)
 
 
-
-> [!WARNING]
-> This software has not been tested on linux, I have only tested it on windows.
-
 ## Preview of Code
 
 ```
@@ -63,6 +59,8 @@ Facial Recognition Software in Python
         cv2.destroyAllWindows()
 ```
 
+> [!WARNING]
+> This software has not been tested on linux, I have only tested it on windows.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
