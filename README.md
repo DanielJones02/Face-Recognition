@@ -1,4 +1,4 @@
-# Face-RecognitionPY
+# Face-Recognition
 Facial Recognition Software in Python
 <h1 align="center">Hi 👋, I'm Daniel Jones</h1>
 <h3 align="center">I'm a passionate Python and C++ developer</h3>
